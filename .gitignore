@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.DS_Store
+.idea/vcs.xml
+src/main/resources/static/
+src/main/resources/templates/
+target/generated-sources/
+target/generated-test-sources/
